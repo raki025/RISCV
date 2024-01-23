@@ -5,5 +5,7 @@ Synthesizing the RISC-V RTL and generating the Gate Level netlist.
 Implementing floor planning, Placement, and Routing processes on the netlist.
 Implementing Clock Tree Synthesis
 Performing Timing Analysis and achieving timing closure.
-Perform DRC, ERC, and LVS for signoff
+Perform DRC and LVS for signoff
 Exporting the final GDS-II
+all the above steps are done using Design compile(DC)-for synthesis and ICC2-for floorplan to routing
+and all the command are given in  the pdf 
